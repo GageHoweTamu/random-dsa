@@ -1,2 +1,2 @@
 # random-dsa
-Niche algorithms for specific tasks
+An ongoing pesonal collection of niche algorithms for specific tasks
